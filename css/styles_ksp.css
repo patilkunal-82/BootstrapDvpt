@@ -11,7 +11,7 @@
 }
 
 .footer {
-    background-color: azure;
+    background-color:beige;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -24,9 +24,9 @@
 }
 
 .address {
-    font-size: 40%;
+    font-size: 80%;
     margin: 0px;
-    color: green;
+    color: black;
 }
 
 .row-content-ass1 {
@@ -34,4 +34,3 @@
     padding: 50px 0px 50px 0px;
     min-height: 10px
 }
-
