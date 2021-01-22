@@ -7,7 +7,7 @@
     margin: 0px auto;
     padding: 50px 0px 50px 0px;
     border-bottom: 1px ridge;
-    min-height: 400px
+    min-height: 400px;
 }
 
 .footer {
@@ -29,8 +29,6 @@
     color: black;
 }
 
-.row-content-ass1 {
-    margin: 0px auto;
-    padding: 50px 0px 50px 0px;
-    min-height: 10px
+.control-label {
+   text-align: right;
 }
